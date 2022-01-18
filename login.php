@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Login Page</title>
-</head>
-<body>
 <form class="pure-form">
     <fieldset>
         <legend>Login</legend>
@@ -15,5 +9,4 @@
         <button type="submit" class="pure-button pure-button-primary">Sign in</button>
     </fieldset>
 </form>
-</body>
-</html>
+
